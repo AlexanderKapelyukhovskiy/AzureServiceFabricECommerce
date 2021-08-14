@@ -11,6 +11,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ECommerce.ProductCatalog", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECommerce.API", "ECommerce.API\ECommerce.API.csproj", "{CD83394F-2E13-4187-801B-5567BD772933}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserActor", "UserActor\UserActor.csproj", "{83A5E794-C6A7-4023-B406-452A038EFBED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserActor.Interfaces", "UserActor.Interfaces\UserActor.Interfaces.csproj", "{78BCAEA1-57F6-4000-B49E-6997BFF58D9E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,22 @@ Global
 		{CD83394F-2E13-4187-801B-5567BD772933}.Release|Any CPU.Build.0 = Release|Any CPU
 		{CD83394F-2E13-4187-801B-5567BD772933}.Release|x64.ActiveCfg = Release|Any CPU
 		{CD83394F-2E13-4187-801B-5567BD772933}.Release|x64.Build.0 = Release|Any CPU
+		{83A5E794-C6A7-4023-B406-452A038EFBED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83A5E794-C6A7-4023-B406-452A038EFBED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83A5E794-C6A7-4023-B406-452A038EFBED}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{83A5E794-C6A7-4023-B406-452A038EFBED}.Debug|x64.Build.0 = Debug|Any CPU
+		{83A5E794-C6A7-4023-B406-452A038EFBED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83A5E794-C6A7-4023-B406-452A038EFBED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83A5E794-C6A7-4023-B406-452A038EFBED}.Release|x64.ActiveCfg = Release|Any CPU
+		{83A5E794-C6A7-4023-B406-452A038EFBED}.Release|x64.Build.0 = Release|Any CPU
+		{78BCAEA1-57F6-4000-B49E-6997BFF58D9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78BCAEA1-57F6-4000-B49E-6997BFF58D9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78BCAEA1-57F6-4000-B49E-6997BFF58D9E}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{78BCAEA1-57F6-4000-B49E-6997BFF58D9E}.Debug|x64.Build.0 = Debug|Any CPU
+		{78BCAEA1-57F6-4000-B49E-6997BFF58D9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78BCAEA1-57F6-4000-B49E-6997BFF58D9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78BCAEA1-57F6-4000-B49E-6997BFF58D9E}.Release|x64.ActiveCfg = Release|Any CPU
+		{78BCAEA1-57F6-4000-B49E-6997BFF58D9E}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
